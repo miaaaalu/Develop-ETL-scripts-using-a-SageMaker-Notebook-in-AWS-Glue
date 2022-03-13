@@ -14,10 +14,9 @@ https://github.com/aws-samples/aws-glue-samples/blob/master/examples/join_and_re
 ```
 
 # Preparation
-1. Build Dev endpoints with IAM Role ( attach adminaccess)
+1. Build a Development endpoint with IAM Role (attach AdministratorAccess)
 
-2. Create a SageMaker Notebook with the Development Endpoint and IAM Role
-create notebook 
+2. Create a SageMaker Notebook with the Development Endpoint with IAM Role
 
 3. Create a S3 bucket for source file 
 
