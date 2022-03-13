@@ -21,7 +21,4 @@ create notebook
 
 3. Create a S3 bucket for source file 
 
-4. Create a glue crawler with S3 source bucket path 
-
-
-<span style="color:orange;">Word up</span>
+4. Create a glue crawler with S3 source bucket path
